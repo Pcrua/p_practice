@@ -9,5 +9,6 @@ public class Tset01 {
     public static void main(String[] args) {
         System.out.println("master分支第一次提交");
         System.out.println("dev1分支进行对功能完善");
+        System.out.println("dev2分支进行对功能完善");
     }
 }
